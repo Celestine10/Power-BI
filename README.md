@@ -1,2 +1,4 @@
 #  Visualizations with Power-BI
-Analysing different aspect of Sales Data
+The US superstore Data is analysed to get various insights and answer some questions.
+
+
