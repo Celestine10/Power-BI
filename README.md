@@ -1,4 +1,2 @@
-#  Visualizations with Power-BI
-The US superstore Data is analysed to get various insights and answer some questions.
-
-
+# VISUALIZATION PRACTICE
+Getting my hands dirty with some of Power BI's viualizations 
